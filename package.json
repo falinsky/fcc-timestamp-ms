@@ -1,0 +1,14 @@
+{
+  "name": "fcc-timestamp-ms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "falinsky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
